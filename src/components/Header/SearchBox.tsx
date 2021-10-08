@@ -1,4 +1,5 @@
 import { Flex, Icon, Input } from "@chakra-ui/react";
+import { useForm } from "react-hook-form";
 import { RiSearch2Line } from "react-icons/ri";
 
 export function SearchBox() {
